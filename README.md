@@ -1,17 +1,8 @@
 # Salaries Analysis Dashboard
 
 ## 📊 Project Overview
-An interactive Power BI dashboard built to analyze employee compensation data. The dashboard provides insights into salary distribution, trends, and disparities across 500 employees with a total payroll of 5M.
-
-This project demonstrates my ability to clean, model, and visualize HR data to support data-driven decision making in HR and Finance.
-
-## 🎯 Key Insights
-- **Headcount**: 500 employees
-- **Total Salaries**: 5M  
-- **Average Salary**: 9.93K
-- Salary trends by years of experience
-- Salary breakdown by gender, location, and job rank
-- Interactive filtering by Department, Location, Job Title, Education Level, and Job Level
+Interactive Power BI dashboard analyzing salary distribution for employees. 
+Covers KPIs, filters, and insights by experience, rank, location, gender, and department using DAX and data modeling.
 
 ## 📈 Visualizations Used
 1. **KPI Cards** – Employees, Total Salaries, Avg Salaries
@@ -28,8 +19,7 @@ This project demonstrates my ability to clean, model, and visualize HR data to s
     - Data Modeling & Relationships
     - DAX Measures: `SUM`, `AVERAGE`, `COUNT`
     - Data Cleaning with Power Query
-    - Dashboard Design & UI/UX
-    - Interactive Filtering & Bookmarks
+    - Dashboard Design Power BI
 
 ## 📂 Files in this Repo
 - `Salaries-Analysis-Dashboard.pbix` – Power BI file
