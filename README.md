@@ -23,8 +23,8 @@ Covers KPIs, filters, and insights by experience, rank, location, gender, and de
 
 ## 📂 Files in this Repo
 - `Salaries-Analysis-Dashboard.pbix` – Power BI file
-- `Salaries_Dataset.xlsx` – Sample dataset
 - `Dashboard-Screenshot.png` – Preview imag
+- 
 - ## 📷 Dashboard Preview
 
-![Salaries Analysis Dashboard](Dashboard-Screenshot.png)
+![Salaries Analysis Dashboard](Dashboard_Screenshot.png)
