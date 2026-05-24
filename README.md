@@ -22,9 +22,12 @@ Covers KPIs, filters, and insights by experience, rank, location, gender, and de
     - Dashboard Design Power BI
 
 ## 📂 Files in this Repo
-- `Salaries-Analysis-Dashboard.pbix` – Power BI file
-- `Dashboard-Screenshot.png` – Preview imag
+- `Salaries_Analysis_Dashboard.pbix` – Power BI file
+- `Dashboard_Screenshot.png` – Preview imag
+-  `Salaries_Analysis-Dashboard_Blue.pbix` – Power BI file
+- `Dashboard_Screenshot_Blue.png` – Preview imag
 - 
 - ## 📷 Dashboard Preview
+- ![Salaries Analysis Dashboard](Dashboard_Blue_Screenshot.png)
 
 ![Salaries Analysis Dashboard](Dashboard_Screenshot.png)
